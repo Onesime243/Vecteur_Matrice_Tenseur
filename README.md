@@ -1,0 +1,3 @@
+# Vecteur_Matrice_Tenseur
+
+Aujourd'hui, nous établissons les bases fondamentales pour notre série de formations en machine learning. Dans ce tutoriel inaugural, nous nous plongeons dans l'univers des vecteurs, matrices et tenseurs, en utilisant Python comme langage de programmation. Chaque ligne de code est soigneusement accompagnée d'une explication théorique claire en français. Notre objectif est de mettre à la disposition de la communauté francophone des outils d'apprentissage de qualité, adaptés à tous les niveaux. Que vous soyez débutant ou aspirant expert, notre approche vous guidera pas à pas, vous permettant de passer de zéro à héros dans le domaine du machine learning.
